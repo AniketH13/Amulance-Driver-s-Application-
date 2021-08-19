@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "878489028364",
+    "project_id": "ems-android-39676",
+    "storage_bucket": "ems-android-39676.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878489028364:android:0f75c089b0fa5e11832b29",
+        "android_client_info": {
+          "package_name": "com.hyozu.example.ems"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878489028364-g3hrhv6pkoh95tua3hibjrhgdpspmlm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5CfeGZ_LK6LXSJZ3ROmvr_0O2C5texY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878489028364-g3hrhv6pkoh95tua3hibjrhgdpspmlm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
